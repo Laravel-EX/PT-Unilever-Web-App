@@ -1,0 +1,59 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+/*LAPORAN 1*/
+.top {	
+	width: 250px;
+	float: right;
+}
+
+.top-head {
+	text-align: left;
+}
+
+.table1 {
+	border: none;
+	width: 800px;
+	height: 200px;
+	margin-left: 50px;
+}
+
+.table-name {
+	padding: 10px;
+	font-weight: bold;
+}
+
+.table2 {
+	border: none;
+	width: 550px;
+	margin-left: 50px;
+}
+
+.table3 {
+	border: none;
+	width: 600px;
+	margin-left: 50px;
+}
+
+.table4 {
+	border: none;
+	width: 100%;
+	margin-left: 50px;
+}
+
+.table-name1 {
+	padding: 10px;
+	font-weight: bold;
+}
+/*END LAPORAN 1*/
+
+/*LAPORAN 2*/
+.judul {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	margin: 110px 0px 0px 360px;
+	padding: 0px;
+}
+/*END LAPORAN 2*/

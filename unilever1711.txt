@@ -1,0 +1,10 @@
+1. quality ditambahin quality release dan rejected -
+2. quality bisa edit status release atau rejected -
+3. keterangan ketika edit data transaksi untuk remarks tentang data supir dan lain2
+4. batch no dan tank no di tankfarm 
+5. vessel closing di quality -
+6. pewarnaan overnight di setiap akses
+7. vcf di cetak di admin
+8. batch1, 2 dan 3 di warehouse sesuai dengan excel SO 463xxxx
+9. SO no dan POD di shipment, not party
+10.

@@ -1,0 +1,24 @@
+#images {
+    overflow: hidden;
+    position: relative;
+    z-index: 999;
+}
+
+#images:hover {
+    width: 100%;
+    margin-left: -450px;
+    height: 200px;
+    display:block;
+    -o-transform:scale(2,2);
+    -o-transition-timing-function:ease-out;
+    -o-transition-duration: 0.1s;
+   
+    -webkit-transform: scale(2,2);
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition-duration: 0.5s;
+
+    -moz-transform: scale(2,2);
+    -moz-transition-timing-function: ease-out;
+    -moz-transition-duration: 0.1s;
+    position: relative;
+}
